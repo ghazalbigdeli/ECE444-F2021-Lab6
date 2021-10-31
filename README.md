@@ -1,4 +1,5 @@
 # ECE444-F2021-Lab6
+Ghazal Bigdeli
 
 ## Part 3: Pros and Cons of TDD
 The pros of using TDD starts with better program design. Since the developer has to define tests and goals they want to code to achieve, it's easier to write and format the code. It allows them to keep everything in mind by estimating what each part will achieve, and leads to detailed specifications. Another pro is that it leads to more modular design - since you write the tests first, the code is easy to check.
